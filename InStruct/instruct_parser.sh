@@ -85,4 +85,4 @@ echo "Done"
 
 ###In the future
 ###Remove the grep search to check the input file and instead issue 
-###tests on all of the variables they should all be integers 
+###tests on all of the variables (they should be integers). 
