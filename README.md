@@ -1,3 +1,4 @@
-# The scripts in this repository are written with the purpose of making my life easier 
+# The scripts and images  in this repository were created with the purpose of making my (and others) life easier 
 
-Typically they are located in a folder name by the program that generates their input. Some folders include documentation or binaries that are becoming harder to find online.
+* Scripts are located in folders named by the program. Some folders include documentation or binaries that are becoming harder to find online.
+* Wagner_lab contains code and vector images of use to myself and other members of the lab.
